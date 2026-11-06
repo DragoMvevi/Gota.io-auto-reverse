@@ -2,6 +2,11 @@
 
 A lightweight, external auto-reverse tool I built for **Gota.io** (and other Agar-style games). Instead of messing with browser memory, extensions, or WebSocket hooks, it reads screen pixels around your target cell in real time and hits your split/reverse key the instant the enemy cell shrinks or splits.
 
+
+
+https://github.com/user-attachments/assets/2753499a-0772-4a33-a564-4fcc318255be
+
+
 ---
 
 ## How It Works
