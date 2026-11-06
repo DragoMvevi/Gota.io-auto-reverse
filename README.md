@@ -46,7 +46,8 @@ When you lock onto a cell, a small black crosshair glides out to the cell's oute
 For the cleanest tracking in Fixed Mode:
 1. Use a **Dark / Black background**.
 2. Turn off **Skins** so cells are solid colors.
-3. Keep names/food minimal if they overlap small cells.
+3. lower animation delay.
+4. be smart and play anonymously.
 
 ---
 
