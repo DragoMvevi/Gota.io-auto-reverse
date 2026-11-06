@@ -43,7 +43,7 @@ When you lock onto a cell, a small black crosshair glides out to the cell's oute
 
 ## Best In-Game Settings (Gota.io)
 
-For the cleanest tracking in Fixed Mode:
+For the cleanest tracking in all Modes:
 1. Use a **Dark / Black background**.
 2. Turn off **Skins** so cells are solid colors.
 3. lower animation delay.
