@@ -1,0 +1,23 @@
+{
+    "fixed_toggle_key": "M",
+    "fixed_toggle_vk": 77,
+    "smart_toggle_key": "X",
+    "smart_toggle_vk": 88,
+    "movable_hold_key": "P",
+    "movable_hold_vk": 80,
+    "split_action_key": "D",
+    "split_action_vk": 68,
+    "color_change_tolerance": 30,
+    "auto_aim_enabled": false,
+    "auto_aim_restore_pos": false,
+    "auto_aim_pre_delay_ms": 0,
+    "cursor_lock_to_dot": false,
+    "dark_threshold": 38,
+    "edge_margin_px": 3,
+    "max_drift_rate_px": 10,
+    "tracking_speed": 0.050000000000000044,
+    "search_radius_px": 20,
+    "sample_rate_hz": 1000,
+    "show_overlay": true,
+    "overlay_dot_size": 8
+}
